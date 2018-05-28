@@ -92,7 +92,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 } // parameters
 
 // Change the name of your coin lol
-const char     CRYPTONOTE_NAME[]                             = "Cryptostake";
+const char     CRYPTONOTE_NAME[]                             = "FlowCash";
 // Keep in mind unlike Cryptonote reference code, the genesis block tx is in src/CryptoNoteCore/currency.cpp, so put your genesis block there
 const uint8_t  TRANSACTION_VERSION_1                         =  1;
 const uint8_t  TRANSACTION_VERSION_2                         =  2;
